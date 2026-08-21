@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"chat.disableAIFeatures": false,
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "aimtrainer"
+	}
+}
